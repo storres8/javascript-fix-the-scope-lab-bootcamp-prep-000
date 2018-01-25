@@ -20,7 +20,7 @@ function yourAnimal() {
 
 
 
-const
+const two = 2 
 function add2(n) {
   return n + two 
   
@@ -49,4 +49,4 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction; 
 theFunk = theFunk() 
-
+theFunk(); 
